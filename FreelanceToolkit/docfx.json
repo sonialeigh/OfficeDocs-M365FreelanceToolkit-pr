@@ -22,7 +22,10 @@
       {
         "files": [
           "**/*.png",
-          "**/*.jpg"
+          "**/*.jpg",
+          "**/*.gif",
+          "**/*.svg",
+          "**/*.pdf"
         ],
         "exclude": [
           "**/obj/**",
@@ -35,9 +38,12 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+      "searchScope": ["Freelance Toolkit"],
       "breadcrumb_path": "/freelancetoolkit/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "feedback_system": "GitHub",
+      "feedback_github_repo": "MicrosoftDocs/OfficeDocs-M365FreelanceToolkit",
+      "feedback_product_url": "https://github.com/MicrosoftDocs/OfficeDocs-M365FreelanceToolkit/issues" 
     },
     "fileMetadata": {},
     "template": [],
