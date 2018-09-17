@@ -1,6 +1,6 @@
 ---
-title: Data analytics
-description: Add a short description
+title: Data analytics 
+description: How to set up data analytics for an enterprise freelance program 
 author: samanro
 manager: samanro
 layout: LandingPage
@@ -10,6 +10,7 @@ ms.tgt_pltfrm: na
 ms.devlang: na
 ms.topic: landing-page
 ms.author: samanro
+localization_priority: None 
 ---
 Data analytics 
 ===================
@@ -26,7 +27,7 @@ freelance isn’t just a flash in the pan. That instead, by comparing it side by
 side with existing external staffing options, it is consistently better, faster,
 and cheaper by leaps and bounds.
 
-![](media/M365_Freelance_GigEcononmy_SpendReport_800x450.png)
+![A spending report in PowerBI](media/M365_Freelance_GigEcononmy_SpendReport_800x450.png)
 
 [Learn how Chad increased spend and adoption by leveraging a data-centric
 approach](dataanalyticscasestudy.md)
@@ -104,7 +105,7 @@ Learn more with the following resources
                     <div class="cardText">
                         <h3>PowerBI engagement template</h3>
                         <p>Start customizing your PowerBI Dashboard in accordance with your enterprise today. We have curated many of our engagement best practices, including the ideal job description, skills needed, and price point.</p>
-                        <p><a href="powerbihiringtemplate.md">View the PowerBI engagement template</a></p>
+                        <p><a href="powerbiengagementtemplate.md">View the PowerBI engagement template</a></p>
                     </div>
                 </div>
             </div>
