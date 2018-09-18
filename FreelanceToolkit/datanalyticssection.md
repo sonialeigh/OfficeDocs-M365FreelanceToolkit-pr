@@ -1,7 +1,7 @@
 ---
 title: Data analytics 
 description: How to set up data analytics for an enterprise freelance program 
-author: samanro
+author: matthewrmottola1
 manager: samanro
 layout: LandingPage
 ms.assetid: 

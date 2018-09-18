@@ -1,7 +1,7 @@
 ---
 title: Team-wide communications case study 
 description: A case study about how Microsoft Teams facilitates team-wide communication
-author: samanro
+author: matthewrmottola1
 manager: samanro
 ms.assetid: 
 ms.prod: microsoft-365-enterprise

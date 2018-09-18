@@ -1,7 +1,7 @@
 ---
 title: Workflow automation
 description: Use Microsoft Flow to automate workflow tasks in an enterprise freelance program
-author: samanro
+author: matthewrmottola1
 manager: samanro
 layout: LandingPage
 ms.assetid: 

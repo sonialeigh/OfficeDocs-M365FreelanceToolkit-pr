@@ -1,7 +1,7 @@
 ---
 title: The enterprise challenge 
 description: The challenge of creating a freelance program in an enterprise organization 
-author: samanro
+author: matthewrmottola1
 manager: samanro
 ms.assetid: 
 ms.prod: microsoft-365-enterprise
