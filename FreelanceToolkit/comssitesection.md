@@ -166,24 +166,6 @@ Learn more with the following resources
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/subsite.png" alt="A site template icon" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Deploy communications site</h3>
-                        <p>Start building your communications site today with our prepopulated template. The communications site template is completely customizable, but we have curated many of our best practices into the template. Enjoy!. </p>
-                        <p><a href="https://microsoft.sharepoint-df.com/teams/MSFTUpworkTeam/Shared%20Documents/Expert%20Marketplace/SharePoint%20Comms%20Site.PNG">Deploy communications site</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
                             <img src="media/download-blue.png" alt="Downloadable infographic" />
                         </div>
                     </div>
