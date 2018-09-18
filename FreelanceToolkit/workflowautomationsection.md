@@ -85,24 +85,6 @@ Learn more with the following resources
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/deploy-blue.png" alt="A box with an arrow meaning deploy" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Deploy Flow product templates</h3>
-                        <p>Start building your communications site today with our prepopulated template. The communications site template is completely customizable, but we have curated many of our best practices into the template. Enjoy!</p>
-                        <p><a href="https://preview.flow.microsoft.com/en-us/templates/">Deploy Flow template</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
                             <img src="media/bill-blue.png" alt="A job posting template icon" />
                         </div>
                     </div>
