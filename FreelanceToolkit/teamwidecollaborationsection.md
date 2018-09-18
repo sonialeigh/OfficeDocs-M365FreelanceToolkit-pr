@@ -30,7 +30,7 @@ communication, collaboration, and project management, she was able not only to
 hit her team's goal two weeks early, but bring an internal transformation
 solution to her entire 150 person organization.
 
-![Play](media/video-play.png)
+> [!VIDEO https://videoplayercdn.osi.office.net/hub/?csid=ux-cms-en-us-msoffice&uuid=RWm2wV&AutoPlayVideo=false]
 
 -   [Learn how Beth internally transformed her hybrid full time employee and
 freelance teams](teamwidecollaborationcasestudy.md)
