@@ -1,7 +1,7 @@
 ---
 title: Team-wide collaboration
 description: Use Microsoft Teams to facilitate team-wide collaboration in an enterprise freelance program
-author: samanro
+author: matthewrmottola1
 manager: samanro
 layout: LandingPage
 ms.assetid: 

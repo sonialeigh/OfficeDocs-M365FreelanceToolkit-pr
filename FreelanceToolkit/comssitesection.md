@@ -1,7 +1,7 @@
 ---
 title: Internal communication & awareness
 description: How to set up internal communications about an enterprise freelancer program 
-author: samanro
+author: matthewrmottola1
 manager: samanro
 layout: LandingPage
 ms.assetid: 

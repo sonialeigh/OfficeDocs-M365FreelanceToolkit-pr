@@ -1,7 +1,7 @@
 ---
 title: Employee empowerment and the future 
 description: Future opportunities for empowering employees with an enterprise freelance program 
-author: samanro
+author: matthewrmottola1
 manager: samanro
 ms.assetid: 
 ms.prod: microsoft-365-enterprise

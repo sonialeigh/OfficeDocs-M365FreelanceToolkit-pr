@@ -1,7 +1,7 @@
 ---
 title: SharePoint engagement template 
 description: Use this template to engage a freelance SharePoint expert 
-author: samanro
+author: matthewrmottola1
 manager: samanro
 ms.assetid: 
 ms.prod: microsoft-365-enterprise

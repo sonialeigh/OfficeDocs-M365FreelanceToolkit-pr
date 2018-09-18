@@ -1,7 +1,7 @@
 ---
 title: Launch your freelance program
 description: Add a short description
-author: samanro
+author: matthewrmottola1
 manager: samanro
 layout: LandingPage
 ms.assetid: 

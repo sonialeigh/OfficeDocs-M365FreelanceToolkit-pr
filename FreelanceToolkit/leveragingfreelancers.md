@@ -1,7 +1,7 @@
 ---
 title: Leveraging freelancers in the enterprise 
 description: How to leverage freelancers in an enteprise organization 
-author: samanro
+author: matthewrmottola1
 manager: samanro
 ms.assetid: 
 ms.prod: microsoft-365-enterprise

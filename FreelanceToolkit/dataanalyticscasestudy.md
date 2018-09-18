@@ -1,7 +1,7 @@
 ---
 title: Data analytics case study 
 description: A case study about analyzing data about an enterprise freelance program 
-author: samanro
+author: matthewrmottola1
 manager: samanro
 ms.assetid: 
 ms.prod: microsoft-365-enterprise
