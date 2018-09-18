@@ -1,7 +1,7 @@
 ---
 title: Internal communication & awareness case study 
 description: A case study of how Microsoft communicated internally about the freelancer program.
-author: samanro
+author: matthewrmottola1
 manager: samanro
 ms.assetid: 
 ms.prod: microsoft-365-enterprise
