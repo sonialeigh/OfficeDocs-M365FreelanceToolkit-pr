@@ -30,7 +30,7 @@ and cheaper by leaps and bounds.
 
 ![A spending report in PowerBI](media/M365_Freelance_GigEcononmy_SpendReport_800x450.png)
 
-[Learn how Chad increased spend and adoption by leveraging a data-centric
+-   [Learn how Chad increased spend and adoption by leveraging a data-centric
 approach](dataanalyticscasestudy.md)
 
 Challenge in the enterprise
@@ -71,24 +71,6 @@ Learn more with the following resources
                         <h3>Case study</h3>
                         <p>Learn how Chad, a director of strategic sourcing, and a procurement leader on the Gig Economy v-team, increased spend and adoption of the freelance program by leveraging a data-centric approach.</p>
                         <p><a href="dataanalyticscasestudy.md">Learn more</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="media/subsite.png" alt="A site template icon" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Deploy PowerBI dashboard</h3>
-                        <p>Start building your PowerBI dashboard today with our prepopulated template. The template is completely customizable, but we have curated many of our best practices into the template. Enjoy!</p>
-                        <p><a href="https://microsoft.sharepoint-df.com/teams/MSFTUpworkTeam/Shared%20Documents/Expert%20Marketplace/SharePoint%20Comms%20Site.PNG">Deploy communications site</a></p>
                     </div>
                 </div>
             </div>

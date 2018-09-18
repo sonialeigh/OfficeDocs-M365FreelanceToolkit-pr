@@ -36,7 +36,7 @@ By automating these administrative, operational, and manual tasks, Liane was
 able to focus on growing demand and retention within the program by providing a
 frictionless experience for the end user.
 
-[Learn how Liane used if this, then that, logic to automate repetitive, manual
+-   [Learn how Liane used if this, then that, logic to automate repetitive, manual
 tasks within a freelance
 program](workflowautomationcasestudy.md)
 
@@ -109,7 +109,7 @@ Learn more with the following resources
                     <div class="cardText">
                         <h3>Flow engagement template</h3>
                         <p>Start customizing your flow templates in accordance with your enterprise today. We have curated many of our engagement best practices, including the ideal job description, skills needed, and price point.</p>
-                        <p><a href="flowengagementtemplate.md">Download the Flow engagement template.</a></p>
+                        <p><a href="flowengagementtemplate.md">View the Flow engagement template.</a></p>
                     </div>
                 </div>
             </div>
