@@ -137,7 +137,7 @@ Learn more with the following resources
                     <div class="cardText">
                         <h3>Case study</h3>
                         <p>Learn how Beth, a training manager leading a team of four full time employees and a continuous flow of freelancers, increased her teams training video output by 120% through internally transforming the way they communicated, collaborated, and project managed the production of training videos.</p>
-                        <p><a href="workflowautomationcasestudy.md">Learn more</a></p>
+                        <p><a href="teamwidecollaborationcasestudy.md">Learn more</a></p>
                     </div>
                 </div>
             </div>
