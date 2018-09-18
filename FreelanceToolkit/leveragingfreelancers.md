@@ -14,9 +14,7 @@ localization_priority: None
 Leveraging freelancers in the enterprise
 =================================
 
-Paul & Pranish – due 9/7 
-
-Enterprise success stories (this is what you could have in your company) 
+Watch these videos to learn more about how we empowered our employees with Freelancers. 
 
 - Ken video
 - Jack Teams video
