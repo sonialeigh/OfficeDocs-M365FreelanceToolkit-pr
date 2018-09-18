@@ -32,7 +32,7 @@ solution to her entire 150 person organization.
 
 ![Play](media/video-play.png)
 
-[Learn how Beth internally transformed her hybrid full time employee and
+-   [Learn how Beth internally transformed her hybrid full time employee and
 freelance teams](teamwidecollaborationcasestudy.md)
 
 Challenge in the Enterprise

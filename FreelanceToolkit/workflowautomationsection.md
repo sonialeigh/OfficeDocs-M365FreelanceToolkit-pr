@@ -36,7 +36,7 @@ By automating these administrative, operational, and manual tasks, Liane was
 able to focus on growing demand and retention within the program by providing a
 frictionless experience for the end user.
 
-[Learn how Liane used if this, then that, logic to automate repetitive, manual
+-   [Learn how Liane used if this, then that, logic to automate repetitive, manual
 tasks within a freelance
 program](workflowautomationcasestudy.md)
 

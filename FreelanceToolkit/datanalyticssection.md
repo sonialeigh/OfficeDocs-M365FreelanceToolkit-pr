@@ -30,7 +30,7 @@ and cheaper by leaps and bounds.
 
 ![A spending report in PowerBI](media/M365_Freelance_GigEcononmy_SpendReport_800x450.png)
 
-[Learn how Chad increased spend and adoption by leveraging a data-centric
+-   [Learn how Chad increased spend and adoption by leveraging a data-centric
 approach](dataanalyticscasestudy.md)
 
 Challenge in the enterprise
