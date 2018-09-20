@@ -17,8 +17,6 @@ Leveraging freelancers in the enterprise
 
 Watch these videos to learn more about how we empowered our employees with Freelancers. 
 
-- Ken video
-- Jack Teams video
-- The journey of a freelancer
+> [!VIDEO https://videoplayercdn.osi.office.net/hub/?csid=ux-cms-en-us-msoffice&uuid=RWm2wV&AutoPlayVideo=false]
 
 [This is how we did it](ourjourney.md)
