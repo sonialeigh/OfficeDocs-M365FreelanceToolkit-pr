@@ -16,34 +16,15 @@ ms.custom: M365FreelanceToolkit
 Team-wide collaboration
 ===========================
 
-Microsoft Teams 
---------------------
-
-What if you could increase output 120% by internally transforming the way your
-teams work?
-
-For Beth, a training manager leading a team of four full time employees and a
-continuous flow of freelancers to create training videos, she needed to create
-150 training videos in six weeks – a feat unattainable with her then current
-capacity. By leveraging Microsoft Teams as her team's one place for
-communication, collaboration, and project management, she was able not only to
-hit her team's goal two weeks early, but bring an internal transformation
-solution to her entire 150 person organization.
-
-> [!VIDEO https://videoplayercdn.osi.office.net/hub/?csid=ux-cms-en-us-msoffice&uuid=RWm2wV&AutoPlayVideo=false]
-
--   [Learn how Beth internally transformed her hybrid full time employee and
-freelance teams](teamwidecollaborationcasestudy.md)
-
-Challenge in the Enterprise
----------------------------
-
 While today’s freelancer tools work fine for 1:1 discussions, most enterprise
 projects are many:many where team members collaborate on projects in groups with
 many different working files and communication channels. In order to keep teams
 moving in the same direction while on various continents and various roles, they
-need one place to communicate and collaborate. Specifically, these teams need,
-all in one place, the ability to:
+need one place to communicate and collaborate.
+
+[Microsoft Teams](https://products.office.com/en-us/microsoft-teams/free) supports integration with other Microsoft applications, like [Planner](https://products.office.com/en-us/business/task-management-software), as well as hundreds of 3rd party applications that your teams use to get work done.
+
+Through Microsoft Teams, employees and freelancers have a single place to:
 
 <ul class="panelContent cardsW cols cols2">
     <li>
@@ -57,7 +38,7 @@ all in one place, the ability to:
                     </div>
                     <div class="cardText">
                         <h3>Communicate</h3>
-                        <p>Like Slack, public and private channels for members to engage in discussion. This discussion needs to be visible for all applicable stakeholders to promote virtual collaboration.</p>
+                        <p>Teams need public and private channels for members to engage in discussion. This discussion needs to be visible for all applicable stakeholders to promote virtual collaboration.</p>
                     </div>
                 </div>
             </div>
@@ -74,7 +55,7 @@ all in one place, the ability to:
                     </div>
                     <div class="cardText">
                         <h3>Manage tasks</h3>
-                        <p>Like Trello, one place to track progress and align each team member's workflow through popular project management techniques. </p>
+                        <p>Teams need one place to track progress and manage each team member's workflow through the project. </p>
                     </div>
                 </div>
             </div>
@@ -91,7 +72,7 @@ all in one place, the ability to:
                     </div>
                     <div class="cardText">
                         <h3>Collaborate</h3>
-                        <p>Like cloud-based file storage, in order to avoid team members working on prior versions of files, they need one place to store files, ideally stored in the boards/tickets created in the project management application, and the ability to be seamlessly retrieved through intelligent search. </p>
+                        <p>Teams need cloud-based file storage to ensure changes are current, with files organized in alignment with the overall project plan, and seamless file retrieval through intelligent search. </p>
                     </div>
                 </div>
             </div>
@@ -107,8 +88,8 @@ all in one place, the ability to:
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Invite external users</h3>
-                        <p>Like open-sourced technology, the ability to be broadly accepted for freelancers by having a free option. <a href="https://products.office.com/en-us/microsoft-teams/free">Learn about Microsoft Teams free download</a>.</p>
+                        <h3>Work with external users</h3>
+                        <p>Teams working with freelancers need the ability to invite external users to collaborate, with free access to those collaboration tools. <a href="https://products.office.com/en-us/microsoft-teams/free">Learn about Microsoft Teams free download</a>.</p>
                     </div>
                 </div>
             </div>
@@ -116,12 +97,7 @@ all in one place, the ability to:
     </li>
 </ul>
 
-[Microsoft Teams](https://products.office.com/en-us/microsoft-teams/free) is
-your hub application that supports integration with Microsoft applications as
-well as hundreds of 3rd party applications like Trello that your teams use to
-get work done. 
-
-Learn more with the following resources
+Case Study: 
 ---------------------------------------
 
 <ul class="panelContent cardsF cols cols2">
