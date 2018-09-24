@@ -112,7 +112,7 @@ Because we have invested time in establishing our communication site as the sing
                     </div>
                     <div class="cardText">
                         <p>Learn how Julie, a senior director at Microsoft, navigated the compliance grounds of intellectual property when using freelancers to design an internal review deck.</p>
-                        <p><a href="comssitecasestudy.md">Learn more</a></p>
+                        <p><a href="comssitecasestudy.md">LEARN MORE</a></p>
                     </div>
                 </div>
             </div>
