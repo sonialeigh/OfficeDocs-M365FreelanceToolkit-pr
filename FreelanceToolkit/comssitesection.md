@@ -21,7 +21,7 @@ is driving awareness amongst internal stakeholders and adopters. People have
 questions from the basics of how to get started through to education and sharing
 of best practices.
 
-A [Sharepoint communication
+A [SharePoint communication
 site](https://support.office.com/en-us/article/what-is-a-sharepoint-communication-site-94a33429-e580-45c3-a090-5512a8070732)
 enables you to provide your employees with a one-stop-shop for everything they need to know about the program.
 
