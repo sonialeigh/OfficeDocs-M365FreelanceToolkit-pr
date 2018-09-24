@@ -100,7 +100,3 @@ ms.custom: M365FreelanceToolkit
         </div>
     </li>
 </ul>
-
-<h2>Why freelance?</h2>
-    <p>Every enterprise will have different reasons for embracing the gig economy. In the case studies included in this toolkit, you'll see that Microsoft employees who have actually worked with freelancers have similar stories of going from initial fear and skepticism, to feeling empowered by new opportunities for scale and impact. As a result of this growth mindset and willingness to try a new way of working, we're able to deliver more value to our customers.</p>
-    <p>[placeholder for public-facing templates video maybe? Erren and Drew are working on this for Chad. Would also link "case studies" above to a landing page for all of the case studies.]</p>
